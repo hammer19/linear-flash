@@ -10,6 +10,7 @@ import rocketchip._
 import sifive.blocks.ip.xilinx.axi_emc_bpiflash.{AXIToBPIFLASH, AXIToBPIIOClocksReset, AXIToBPIIOPhysical}
 import sifive.blocks.ip.xilinx.ibufds_gte2.IBUFDS_GTE2
 
+
 class BPI_flashPads extends Bundle with AXIToBPIIOPhysical
 
 class BPI_flashIO extends Bundle with AXIToBPIIOPhysical
