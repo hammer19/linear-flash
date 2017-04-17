@@ -1,2 +1,3 @@
 # linear-flash
-scala code of axi_emc 
+scala code of axi_emc
+this part  
